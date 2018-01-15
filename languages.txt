@@ -5,3 +5,6 @@ scala
 ruby
 javascript
 rust
+c++
+snarkadoodles
+myfirstlanguage
